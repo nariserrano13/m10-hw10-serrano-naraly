@@ -6,3 +6,23 @@
   opacity: 1;
   transition: opacity 1s;
 }
+body{
+  font-family:'Poppins', sans-serif;
+  color: #efefef;
+}
+.body_position{
+  margin: auto;
+  max-width: 600px;
+}
+header{
+  background-color: #0d8573;
+  padding-left: 1.5rem;
+}
+main{
+  background-color:#d47911;
+  padding: .5rem 0rem .5rem 1.5rem;
+}
+footer{
+  background-color: #448247;
+  padding-left: 1.5rem;
+}
